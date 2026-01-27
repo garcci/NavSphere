@@ -1540,6 +1540,14 @@
               "description": "Create book from markdown files. Like Gitbook but implemented in Rust",
               "icon": "/assets/img_1765686772245.webp",
               "enabled": true
+            },
+            {
+              "id": "item-1769515890735",
+              "enabled": true,
+              "title": "在线 - ASMRS生活",
+              "href": "https://asmrs.live/movies",
+              "description": "",
+              "icon": "/assets/favicon_1769515856209.ico"
             }
           ]
         }
